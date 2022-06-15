@@ -6,7 +6,7 @@ Tetris game written in HTML5 + CSS3 + jQuery. This WebApp is a "Responsive Web D
 
 - Chat WhatsApp Admin[wa.me/6282217590187]
 
-- Harga? 10k
+- Harga? 15k
 
 - Via? Dana,Ovo,Gopay
 
